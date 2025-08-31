@@ -14,6 +14,6 @@ body.dark-mode {
 
 /* Stil für den Container */
 .container {
-    text-align: center;
-    margin-top: 50px;
+    text-align: center; /* Horizontale Ausrichtung des Textes in der Mitte */
+    margin-top: 50px; /* Abstand nach oben */
 }
