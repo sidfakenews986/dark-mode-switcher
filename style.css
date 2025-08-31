@@ -8,8 +8,8 @@ body {
 
 /* Stil für den Dunkelmodus */
 body.dark-mode {
-    background-color: black;
-    color: white;
+    background-color: black; /* Hintergrundfarbe für Dunkelmodus */
+    color: white; /* Textfarbe für Dunkelmodus */
 }
 
 /* Stil für den Container */
